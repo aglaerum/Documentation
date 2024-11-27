@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.cursor.com/get-started/migrate-from-vscode</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/get-started/usage</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/tab/overview</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/tab/from-gh-copilot</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/tab/advanced-features</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/chat/overview</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/chat/customize</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/chat/codebase</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/chat/apply</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/cmdk/overview</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/cmdk/terminal-cmdk</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/context/codebase-indexing</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/context/rules-for-ai</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/context/ignore-files</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/advanced/models</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/advanced/api-keys</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/advanced/ai-review</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/advanced/shadow-workspace</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/privacy/privacy</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/troubleshooting/common-issues</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.cursor.com/troubleshooting/troubleshooting-guide</loc>
+  <lastmod>2024-11-27T15:50:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
